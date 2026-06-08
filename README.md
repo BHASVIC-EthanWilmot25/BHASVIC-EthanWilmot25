@@ -1,4 +1,4 @@
-## Hi, I'm Ethan Wilmot
+## Hi, I'm Ethan Wilmot!
 I am an A-Level student at Brighton, Hove And Sussex Sixth Form College (BHASVIC), studying A-Level Computer Science, Mathematics, Further Mathematics and Physics.
 
 I aspire to study Computer Science at university, leading to a programming / software engineering job, hopefully in the videogame industry.
